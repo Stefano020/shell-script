@@ -1,4 +1,3 @@
 #!/bin/zsh
-# "Eu sou tryber e este é um estudo do exercicio da Aula_2_2. 
-
+#"Vou ter muito sucesso na programação!"
 echo "Shell Script é demais!"
