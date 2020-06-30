@@ -43,8 +43,4 @@ Modify script from exercise #6 to accept an unlimited number of files or directo
 
 # Exercise 3 - Bonus :
 
-Write a Shell Script that renames all files in the current directory that end in ".png", so that the file name starts with the current date in the format "YYY-MM-DD".
-
-# Exercise 4 - Bonus :
-
-TODO
+Write a Shell Script that renames all files in the current directory that end in ".png", so that the file name starts with the current date in the format "YYYY-MM-DD".
